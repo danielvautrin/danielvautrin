@@ -1,16 +1,34 @@
-## Hi there 👋
+# Daniel Vautrin
 
-<!--
-**danielvautrin/danielvautrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Structuration financière, opérations complexes et cadres d’analyse pour la prise de décision.
 
-Here are some ideas to get you started:
+## Positionnement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je travaille sur des problématiques de structuration financière, de situations non standards et d’opérations à forts enjeux, là où les décisions exigent clarté, méthode et indépendance d’analyse.
+
+Mon approche repose sur :
+- la compréhension fine des mécanismes financiers,
+- la structuration de cadres de décision robustes,
+- l’articulation entre analyse, stratégie et exécution.
+
+## Thématiques abordées
+
+- Structuration financière et situations complexes  
+- Décisions stratégiques à forts enjeux  
+- Cadres d’analyse pour dirigeants et investisseurs  
+- Lecture critique des opérations financières non standards  
+
+## Publications & analyses
+
+Certaines réflexions et analyses sont publiées ici :  
+👉 https://danielvautrin.com  
+
+## Présence en ligne
+
+- Medium : analyses et réflexions de fond  
+- GitHub : structuration, cadres conceptuels et documentation  
+- Behance : présentation et mise en forme des travaux
+
+---
+
+*Ce dépôt est un espace de présentation et de structuration, pas un projet logiciel.*
