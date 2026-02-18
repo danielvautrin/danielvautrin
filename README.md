@@ -25,9 +25,9 @@ Certaines réflexions et analyses sont publiées ici :
 
 ## Présence en ligne
 
-- [Medium]([url](https://medium.com/@danielvautrin)) : analyses et réflexions de fond  
-- [GitHub]([url](https://github.com/danielvautrin/danielvautrin/)) : structuration, cadres conceptuels et documentation  
-- [Behance]([url](https://www.behance.net/daniel-vautrin)) : présentation et mise en forme des travaux
+- [Medium] : analyses et réflexions de fond  
+- [GitHub] : structuration, cadres conceptuels et documentation  
+- [Behance]: présentation et mise en forme des travaux
 
 ---
 
